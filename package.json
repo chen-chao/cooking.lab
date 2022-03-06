@@ -1,0 +1,15 @@
+{
+  "name": "cooking.lab",
+  "version": "0.0.1",
+  "description": "L&C's cooking lab",
+  "main": "index.js",
+  "repository": "git@github.com:chen-chao/cooking.lab.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "CC0",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
